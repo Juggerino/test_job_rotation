@@ -1,0 +1,19 @@
+{
+  "name": "test_job_rotation",
+  "version": "1.0.0",
+  "description": "teste para estagio na Job Rotation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juggerino/test_job_rotation.git"
+  },
+  "author": "Mateus Oliveira Gil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Juggerino/test_job_rotation/issues"
+  },
+  "homepage": "https://github.com/Juggerino/test_job_rotation#readme"
+}
